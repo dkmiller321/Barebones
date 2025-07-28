@@ -5,6 +5,11 @@ This project serves as a boilerplate for generative AI coded applications. It ai
 ## Purpose
 The purpose of this project is to serve as a template/boilerplate application, allowing developers to start with an already working barebones app instead of creating a new project from scratch each time.
 
+## Tech Stack
+- **Frontend**: React
+- **Backend**: FastAPI
+- **Database**: SQLite (if applicable)
+
 ## Prerequisites
 
 - Node.js (v14+)
